@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Henrique+Massagli;I'm+18+years+old;I'm+from+Brazil;I+Study+at+PROA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Henrique+Massagli;I'm+18+years+old;I'm+from+Brazil;I'm+Studying+at+PROA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueMassagli&show_icons=true&count_private=true&hide_border=false&title_color=654597&icon_color=D1B490&text_color=F0F4EF&bg_color=0d1117" alt="Henrique Massagli github stats" /> 
