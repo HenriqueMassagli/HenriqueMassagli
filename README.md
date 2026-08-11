@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Hello!+My+Name+is+Henrique+Massagli;I'm+19+years+old;I'm+from+Brazil;Information+Systems+Student;Software+Development+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Hello!+My+Name+is+Henrique+Massagli;I'm+from+Brazil;Information+Systems+Student;Software+Development+%7C+Automation)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge\&logo=linkedin\&logoColor=9B7EDE)](https://www.linkedin.com/in/henrique-massagli-b36b33326/)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/HenriqueMassagli)
 
 </div>
 
