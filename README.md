@@ -37,17 +37,17 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg?v=1"
   />
 
 <source
  media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg?v=1"
+ srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake.svg?v=1"
 />
 
 <img
  alt="GitHub contribution grid snake animation"
- srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg?v=1"
+ src="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake.svg?v=1"
 />
 
 </picture>
@@ -70,3 +70,4 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2B1745&height=120&section=footer"/>
+```
