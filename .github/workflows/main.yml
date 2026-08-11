@@ -1,32 +1,32 @@
 name: generate animation
-
+ 
 on:
   schedule:
     - cron: '0 0 * * *'
-
+ 
   workflow_dispatch:
-
+ 
   push:
     branches:
       - master
-
+ 
 jobs:
   generate:
     permissions:
       contents: write
-
+ 
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
+ 
     steps:
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#B58CFF&color_dots=#11101A,#2B1745,#4A2E7A,#7B4CC2,#B58CFF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#B58CFF&color_dots=#11101A,#2B1745,#4A2E7A,#7B4CC2,#B58CFF
-
+            dist/github-contribution-grid-snake.svg?color_snake=#E6E6E6&color_dots=#0D0D0D,#2B2B2B,#4A4A4A,#8A8A8A,#E6E6E6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#E6E6E6&color_dots=#0D0D0D,#2B2B2B,#4A4A4A,#8A8A8A,#E6E6E6
+ 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
