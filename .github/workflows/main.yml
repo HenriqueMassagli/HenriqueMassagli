@@ -7,7 +7,7 @@ on:
   schedule:
     - cron: "0 */24 * * *"
 
-  # Allows the workflow to be manually executed
+  # Allows to manually run the job at any time
   workflow_dispatch:
 
   # Run on every push to the master branch
@@ -25,15 +25,17 @@ jobs:
 
     steps:
 
+      # Generate the GitHub contribution snake
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#C4A7FF&color_dots=#16121F,#25183A,#3B2160,#5A3290,#8B5CF6
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#C4A7FF&color_dots=#16121F,#25183A,#3B2160,#5A3290,#8B5CF6
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Push generated files to the output branch
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
