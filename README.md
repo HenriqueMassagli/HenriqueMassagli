@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Software+Development;Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Software+Development;Automation)](https://git.io/typing-SVG)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## Main Skills
+### Main Skills
 
 <br>
 
@@ -20,17 +20,13 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
 
-<br><br>
-
-**Python · HTML · CSS**
-
 </div>
 
 ---
 
 <div align="center">
 
-## GitHub Activity
+### GitHub Activity
 
 <br>
 
@@ -50,15 +46,13 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## Contact
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge\&logo=linkedin\&logoColor=9B7EDE)](https://www.linkedin.com/in/henrique-massagli-b36b33326/)
+<a href="https://www.linkedin.com/in/henrique-massagli-b36b33326/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=9B7EDE" alt="LinkedIn"/>
+</a>
 
 </div>
 
