@@ -4,8 +4,11 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueMassagli&show_icons=true&count_private=true&hide_border=false&title_color=654597&icon_color=D1B490&text_color=F0F4EF&bg_color=0d1117" alt="Henrique Massagli GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMassagli&locale=en&title_color=654597&layout=compact&card_width=334&langs_count=5&theme=midnight-purple&hide_border=false" alt="Top Languages" />
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMassagli&layout=compact&langs_count=5&title_color=654597&text_color=F0F4EF&bg_color=0d1117&hide_border=false" alt="Top Languages" />
 </div>
+
+<br>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMassagli&bg_color=000000&color=c7ac89&line=644496&point=7699d4&area=true&hide_border=true" alt="Henrique Massagli GitHub Activity Graph" />
@@ -18,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 
 <br>
