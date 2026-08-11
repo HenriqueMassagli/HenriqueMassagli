@@ -10,12 +10,6 @@
 
 <div align="center">
 
-### `Henrique Massagli`
-
-**Information Systems Student • Developer • Automation**
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge\&logo=linkedin\&logoColor=9B7EDE)](https://www.linkedin.com/in/henrique-massagli-b36b33326/)
 
 </div>
