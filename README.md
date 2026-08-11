@@ -2,19 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Hello!+My+Name+is+Henrique+Massagli;I'm+from+Brazil;Information+Systems+Student;Software+Development+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Software+Development;Automation)](https://git.io/typing-svg)
 
 </div>
 
 <br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge\&logo=linkedin\&logoColor=9B7EDE)](https://www.linkedin.com/in/henrique-massagli-b36b33326/)
-
-</div>
-
----
 
 <div align="center">
 
@@ -66,9 +58,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/henrique-massagli-b36b33326/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge\&logo=linkedin\&logoColor=9B7EDE)](https://www.linkedin.com/in/henrique-massagli-b36b33326/)
 
 </div>
 
