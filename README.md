@@ -35,9 +35,23 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-purple.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-purple.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-purple.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg"
+  >
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake.svg"
+
+>
+
+<img
+alt="GitHub contribution grid snake animation"
+src="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake.svg"
+
+>
+
 </picture>
 
 </div>
@@ -47,7 +61,10 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/henrique-massagli-b36b33326/">
-  <img src="https://img.shields.io/badge/LinkedIn-17131F?style=for-the-badge&logo=linkedin&logoColor=B58CFF" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-17131F?style=for-the-badge&logo=linkedin&logoColor=B58CFF"
+    alt="LinkedIn"
+  />
 </a>
 
 </div>
