@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 0 * * *'
 
   workflow_dispatch:
 
@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#B58CFF&color_dots=#11101A,#2B1745,#4A2E7A,#7B4CC2,#B58CFF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#B58CFF&color_dots=#11101A,#2B1745,#4A2E7A,#7B4CC2,#B58CFF
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
