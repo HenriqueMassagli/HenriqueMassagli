@@ -25,20 +25,6 @@
 
 <div align="center">
 
-## About Me
-
-</div>
-
-I'm an **Information Systems student** focused on software development, automation and technology.
-
-Currently working with **Python, web development and automation**, while continuously expanding my knowledge through personal projects and practical applications.
-
-I enjoy building tools that solve real problems and improving existing systems through automation.
-
----
-
-<div align="center">
-
 ## Main Skills
 
 <br>
@@ -67,13 +53,9 @@ I enjoy building tools that solve real problems and improving existing systems t
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-## Contribution Snake
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMassagli/HenriqueMassagli/output/github-contribution-grid-snake-dark.svg">
@@ -87,22 +69,6 @@ I enjoy building tools that solve real problems and improving existing systems t
 
 <div align="center">
 
-## Projects
-
-</div>
-
-Some of the projects I'm currently working on involve:
-
-* **Python automation**
-* **Web applications**
-* **Process automation**
-* **Data and document processing**
-* **Developer tools**
-
----
-
-<div align="center">
-
 ## Contact
 
 <br>
@@ -110,10 +76,6 @@ Some of the projects I'm currently working on involve:
 <a href="https://www.linkedin.com/in/henrique-massagli-b36b33326/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
 </a>
-
-<br><br>
-
-`São Paulo, Brazil`
 
 </div>
 
