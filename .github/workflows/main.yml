@@ -25,16 +25,15 @@ jobs:
 
     steps:
 
-      # Generate the snake animation
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#D8C2FF&color_dots=#16121F,#241936,#382457,#7B4CC2,#B58CFF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#D8C2FF&color_dots=#16121F,#241936,#382457,#7B4CC2,#B58CFF
 
-      # Push generated files to the output branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#C4A7FF&color_dots=#16121F,#25183A,#3B2160,#5A3290,#8B5CF6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#C4A7FF&color_dots=#16121F,#25183A,#3B2160,#5A3290,#8B5CF6
+
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
