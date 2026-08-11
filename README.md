@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Software+Development;Automation)](https://git.io/typing-SVG)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B7EDE\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Software+Development;Automation)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,15 +10,11 @@
 
 <div align="center">
 
-### Main Skills
+### Main Skill
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
 
 </div>
 
